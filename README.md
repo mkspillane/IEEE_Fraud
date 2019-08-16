@@ -4,6 +4,4 @@ for the catagorical variables.  The resulting model has an ROC score on the test
 
 ![alt text](https://github.com/mkspillane/IEEE_Fraud/blob/master/ROC.png)
 
-The confusion matrix is 
-       0.85, 0.11
-       0.01, 0.03
+The test accuracy is 89%.
