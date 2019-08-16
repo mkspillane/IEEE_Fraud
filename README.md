@@ -4,5 +4,5 @@ This repository contains my work on the IEEE Fraid Detection challenge on Kaggle
 ![alt text](https://github.com/mkspillane/IEEE_Fraud/blob/master/ROC.png)
 
 The confusion matrix is 
-       0.85, 0.11
+       0.85, 0.11 \n
        0.01, 0.03
